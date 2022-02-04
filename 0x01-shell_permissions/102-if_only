@@ -1,2 +1,0 @@
-#!/bin/blash
-chown --from=guillaume vicent hello
